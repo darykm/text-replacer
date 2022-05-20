@@ -1,0 +1,45 @@
+ UNRESPONSIVE:
+
+Hello ,
+Unfortunately, we were unable to connect with you on , after several attempts to reach you.  At this time, we will be closing out this ticket; however, if you are still in need of assistance, please let us know within the context of the incident/request, or contact AskIT @ 555-555-5555 at any time.  
+Thank you for all that you do!
+
+Please contact AskIT if you are still in need of help so we can better troubleshoot this issue: 555-555-5555. You can also use the "Contact IS" link in ServiceNow to schedule a time for us to call you back when it's most convenient, or work with us via the Chat link. Please ensure you reference your incident ticket number .
+ServiceNow Self Service icon can be found in your Azure page (myapps.microsoft.com).
+AskIT is open 24 hours a day, 7 days a week.
+
+
+EMAIL:
+
+Hello ,
+
+My name is . I am with the Virtual Tiered Support Team and am assigned to your ticket, .
+ 
+To resolve this issue, I will need to work with you remotely while you are at the device in question.
+
+Please let me know when a good time to contact you would be (email, MS Teams, or phone call). I am in the office . 
+If you would like to call me regarding this ticket, I can be reached at . Please note, new problems/issues need to be reported through the ServiceDesk first. They can be contacted via one of the methods located at https://google.com
+
+Thank you so much for all you do.
+
+
+ 
+Note: If we do not hear from you after 2 contact attempts, we will have to close the ticket. If the issue continues from there, you will need to contact AskIT at 555-555-5555 for further assistance.
+
+
+SERVICE-NOW:
+
+Hello ,
+
+I would be more than happy to assist with this issue. Let me know when we can connect to resolve.
+Feel free to contact me via Teams or call me direct at .
+
+Thank you,
+
+Note: If we do not hear from you after 2 contact attempts, we will have to close the ticket. If issue continues from there, you will need to contact AskIT at 555-555-5555 for further assistance.
+
+
+TEAMS:
+
+Hello! I am following up on ticket  regarding .  Are you still having issues with this?  Let me know when you are available for troubleshooting.
+
